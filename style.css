@@ -1,0 +1,13 @@
+img {display:inline-block;
+  border-radius:60px;
+  width:60px;
+}
+#asdf {
+  background-color: black;
+  padding: 9px;
+}
+#bg {background: url("mtg.jpg"); background-size: cover; height: 500px}
+#name {display:inline-block; color: red; position: relative; left: 20px; bottom: 10px;}
+#pic {border-radius:5px;
+  width:600px;
+ 
